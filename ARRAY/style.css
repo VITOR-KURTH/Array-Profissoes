@@ -1,0 +1,31 @@
+.body{
+    text-align: center;
+    background-color: rgb(54, 54, 54);
+    color: aliceblue;
+}
+
+.input{
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: aliceblue;
+    background-color: rgb(54, 54, 54);
+}
+
+button{
+    background-color: rgb(54, 54, 54);
+    border-radius: 10px;
+    width: 120px;
+    height: 30px;
+    border-color: aliceblue;
+}
+@font-face {
+    font-family: 'Rolner';
+    src: url('ROLNER.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.titulo{
+    font-family: 'Rolner';
+}
